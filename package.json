@@ -1,0 +1,13 @@
+{
+  "name": "test-driven-palindromes",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "23.6.0"
+  }
+}
